@@ -1,6 +1,8 @@
-## Family Fun Pack
+## Lavhack Frame
 
-### Summary
+Credits goes to anOtherAnalyse for FFP Base!
+
+### Desc
 
 Minecraft 1.12.2 utility mod for anarchy servers, 2b2t - 9b9t. This is not a complete anarchy utility mod, but instead offers a few features that are missing or are improved from what offer others utility mods.
 
